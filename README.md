@@ -54,4 +54,4 @@ Place your RIS files in the same directory as the scripts.
 
 ## Notes
 
-The tool respects rate limits and includes delays to avoid overwhelming APIs. Success rates vary depending on institutional access and open access availability.
+The tool respects rate limits and includes delays to avoid overwhelming APIs. Success rates vary
