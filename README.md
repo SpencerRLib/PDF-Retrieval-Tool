@@ -1,6 +1,6 @@
 # PDF Retriever
 
-A Python tool for processing RIS bibliography files, retrieving missing DOIs, and downloading academic PDFs with institutional proxy support.
+A deprecated Python tool for processing RIS bibliography files, retrieving missing DOIs, and downloading academic PDFs with institutional proxy support. 
 
 ## Features
 
@@ -9,7 +9,7 @@ A Python tool for processing RIS bibliography files, retrieving missing DOIs, an
 - **PDF Download**: Download PDFs from multiple sources including open access repositories
 - **Institutional Proxy Support**: Access paywalled content through library proxies
 - **Library Linkresolver**: OpenURL support for library systems
-- **GUI Interface**: User-friendly Tkinter interface (`gui.py`)
+- **GUI Interface**: Tkinter interface (`retriever_gui.py`)
 - **Command Line**: Script-based processing (`retriever.py`)
 
 ## Requirements
@@ -22,7 +22,7 @@ pip install requests
 
 ### GUI Version
 ```bash
-python gui.py
+python retriever_gui.py
 ```
 
 ### Command Line Version
